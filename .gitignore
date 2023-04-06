@@ -1,0 +1,6 @@
+.DS_STORE
+*.pcap
+node_modules/
+.env
+src/
+.vscode
